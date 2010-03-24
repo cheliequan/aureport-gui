@@ -1,0 +1,407 @@
+# SOME DESCRIPTIVE TITLE.
+# This file is put in the public domain.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: dcwang@redflag-linux.com\n"
+"POT-Creation-Date: 2007-02-28 10:06+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: QLineEdit#1 QTextEdit#1
+msgid "&Undo"
+msgstr ""
+
+#: QLineEdit#2 QTextEdit#2
+msgid "&Redo"
+msgstr ""
+
+#: QLineEdit#3 QTextEdit#3
+msgid "Cu&t"
+msgstr ""
+
+#: QLineEdit#4 QTextEdit#4
+msgid "&Copy"
+msgstr ""
+
+#: QLineEdit#5 QTextEdit#5
+msgid "&Paste"
+msgstr ""
+
+#: QLineEdit#6 QTextEdit#6
+msgid "Clear"
+msgstr ""
+
+#: QLineEdit#7 QTextEdit#7
+msgid "Select All"
+msgstr ""
+
+#: QLineEdit#8 QTextEdit#8
+msgid "Select Input &Method"
+msgstr ""
+
+#: QLineEdit#9 QTextEdit#9
+msgid "Simple composing input method"
+msgstr ""
+
+#: QMainWindow#1
+msgid "Line up"
+msgstr ""
+
+#: QMainWindow#2
+msgid "Customize..."
+msgstr ""
+
+#: QMessageBox#1 QColorDialog#11 QFileDialog#11
+msgid "OK"
+msgstr ""
+
+#: QFileDialog#14
+msgid "&OK"
+msgstr ""
+
+#: QMessageBox#2 QColorDialog#12 QFileDialog#4
+msgid "Cancel"
+msgstr ""
+
+#: QMessageBox#3 QFileDialog#50
+msgid "&Yes"
+msgstr ""
+
+#: QMessageBox#4 QFileDialog#51
+msgid "&No"
+msgstr ""
+
+#: QMessageBox#5
+msgid "&Abort"
+msgstr ""
+
+#: QMessageBox#6
+msgid "&Retry"
+msgstr ""
+
+#: QMessageBox#7
+msgid "&Ignore"
+msgstr ""
+
+#: QMessageBox#8
+msgid "<h3>About Qt</h3><p>This program uses Qt version %1.</p><p>Qt is a C++ toolkit for multiplatform GUI &amp; application development.</p><p>Qt provides single-source portability across MS&nbsp;Windows, Mac&nbsp;OS&nbsp;X, Linux, and all major commercial Unix variants.<br>Qt is also available for embedded devices.</p><p>Qt is a Trolltech product. See <tt>http://www.trolltech.com/qt/</tt> for more information.</p>"
+msgstr ""
+
+#: QWhatsThisButton#1
+msgid "What's this?"
+msgstr ""
+
+#: QColorDialog#1
+msgid "Hu&e:"
+msgstr ""
+
+#: QColorDialog#2
+msgid "&Sat:"
+msgstr ""
+
+#: QColorDialog#3
+msgid "&Val:"
+msgstr ""
+
+#: QColorDialog#4
+msgid "&Red:"
+msgstr ""
+
+#: QColorDialog#5
+msgid "&Green:"
+msgstr ""
+
+#: QColorDialog#6
+msgid "Bl&ue:"
+msgstr ""
+
+#: QColorDialog#7
+msgid "A&lpha channel:"
+msgstr ""
+
+#: QColorDialog#8
+msgid "&Basic colors"
+msgstr ""
+
+#: QColorDialog#9
+msgid "&Custom colors"
+msgstr ""
+
+#: QColorDialog#10
+msgid "&Define Custom Colors >>"
+msgstr ""
+
+#: QColorDialog#13
+msgid "&Add to Custom Colors"
+msgstr ""
+
+#: QColorDialog#14
+msgid "Select color"
+msgstr ""
+
+#: QFileDialog#1
+msgid "Copy or Move a File"
+msgstr ""
+
+#: QFileDialog#2
+msgid "Read: %1"
+msgstr ""
+
+#: QFileDialog#3
+msgid "Write: %1"
+msgstr ""
+
+#: QFileDialog#5
+msgid "All Files (*)"
+msgstr ""
+
+#: QFileDialog#6
+msgid "Name"
+msgstr ""
+
+#: QFileDialog#7
+msgid "Size"
+msgstr ""
+
+#: QFileDialog#8
+msgid "Type"
+msgstr ""
+
+#: QFileDialog#9
+msgid "Date"
+msgstr ""
+
+#: QFileDialog#10
+msgid "Attributes"
+msgstr ""
+
+#: QFileDialog#12
+msgid "Look &in:"
+msgstr ""
+
+#: QFileDialog#13
+msgid "File &name:"
+msgstr ""
+
+#: QFileDialog#14
+msgid "File &type:"
+msgstr ""
+
+#: QFileDialog#15
+msgid "Back"
+msgstr ""
+
+#: QFileDialog#16
+msgid "One directory up"
+msgstr ""
+
+#: QFileDialog#17
+msgid "Create New Folder"
+msgstr ""
+
+#: QFileDialog#18
+msgid "List View"
+msgstr ""
+
+#: QFileDialog#19
+msgid "Detail View"
+msgstr ""
+
+#: QFileDialog#20
+msgid "Preview File Info"
+msgstr ""
+
+#: QFileDialog#21
+msgid "Preview File Contents"
+msgstr ""
+
+#: QFileDialog#22
+msgid "Read-write"
+msgstr ""
+
+#: QFileDialog#23
+msgid "Read-only"
+msgstr ""
+
+#: QFileDialog#24
+msgid "Write-only"
+msgstr ""
+
+#: QFileDialog#25
+msgid "Inaccessible"
+msgstr ""
+
+#: QFileDialog#26
+msgid "Symlink to File"
+msgstr ""
+
+#: QFileDialog#27
+msgid "Symlink to Directory"
+msgstr ""
+
+#: QFileDialog#28
+msgid "Symlink to Special"
+msgstr ""
+
+#: QFileDialog#29
+msgid "File"
+msgstr ""
+
+#: QFileDialog#30
+msgid "Dir"
+msgstr ""
+
+#: QFileDialog#31
+msgid "Special"
+msgstr ""
+
+#: QFileDialog#32
+msgid "Open"
+msgstr ""
+
+#: QFileDialog#33
+msgid "Save As"
+msgstr ""
+
+#: QFileDialog#34
+msgid "&Open"
+msgstr ""
+
+#: QFileDialog#35
+msgid "&Save"
+msgstr ""
+
+#: QFileDialog#36
+msgid "&Rename"
+msgstr ""
+
+#: QFileDialog#37
+msgid "&Delete"
+msgstr ""
+
+#: QFileDialog#38
+msgid "R&eload"
+msgstr ""
+
+#: QFileDialog#39
+msgid "Sort by &Name"
+msgstr ""
+
+#: QFileDialog#40
+msgid "Sort by &Size"
+msgstr ""
+
+#: QFileDialog#41
+msgid "Sort by &Date"
+msgstr ""
+
+#: QFileDialog#42
+msgid "&Unsorted"
+msgstr ""
+
+#: QFileDialog#43
+msgid "Sort"
+msgstr ""
+
+#: QFileDialog#44
+msgid "Show &hidden files"
+msgstr ""
+
+#: QFileDialog#45
+msgid "the file"
+msgstr ""
+
+#: QFileDialog#46
+msgid "the directory"
+msgstr ""
+
+#: QFileDialog#47
+msgid "the symlink"
+msgstr ""
+
+#: QFileDialog#48
+msgid "Delete %1"
+msgstr ""
+
+#: QFileDialog#49
+msgid "<qt>Are you sure you wish to delete %1 \"%2\"?</qt>"
+msgstr ""
+
+#: QFileDialog#52
+msgid "New Folder 1"
+msgstr ""
+
+#: QFileDialog#53
+msgid "New Folder"
+msgstr ""
+
+#: QFileDialog#54
+msgid "New Folder %1"
+msgstr ""
+
+#: QFileDialog#55
+msgid "Find Directory"
+msgstr ""
+
+#: QFileDialog#56
+msgid "Directories"
+msgstr ""
+
+#: QFileDialog#57
+msgid "Save"
+msgstr ""
+
+#: QFileDialog#58
+msgid "Directory:"
+msgstr ""
+
+#: QFileDialog#59
+msgid "Error"
+msgstr ""
+
+#: QFileDialog#60
+msgid ""
+"%1"
+"File not found."
+"Check path and filename."
+msgstr ""
+
+#: QWizard#1
+msgid "&Help"
+msgstr ""
+
+#: QWizard#2
+msgid "< &Back"
+msgstr ""
+
+#: QWizard#3
+msgid "&Next >"
+msgstr ""
+
+#: QWizard#4
+msgid "&Finish"
+msgstr ""
+
+#: QWizard#5
+msgid "&Cancel"
+msgstr ""
+
+#: CATCH_EXCEPTION#1
+msgid "user or password not given!"
+msgstr ""
+
+#: CATCH_EXCEPTION#2
+msgid "unknow error!"
+msgstr ""
+#: CATCH_EXCEPTION#3
+msgid "you may not super user(root), "
+      "please relogin as super user, "
+msgstr ""

@@ -1,0 +1,415 @@
+# translation of qtstuff.po to Korean
+# This file is put in the public domain.
+#
+# Eddie.Kim <seok@haansoft.com>, 2007.
+msgid ""
+msgstr ""
+"Project-Id-Version: qtstuff\n"
+"Report-Msgid-Bugs-To: dcwang@redflag-linux.com\n"
+"POT-Creation-Date: 2007-02-28 10:06+0800\n"
+"PO-Revision-Date: 2007-06-20 14:45+0900\n"
+"Last-Translator: Eddie.Kim <seok@haansoft.com>\n"
+"Language-Team: Korean <rhangbf@haansoft.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: QLineEdit#1 QTextEdit#1
+msgid "&Undo"
+msgstr "실행 취소(&U)"
+
+#: QLineEdit#2 QTextEdit#2
+msgid "&Redo"
+msgstr "다시 실행(&R)"
+
+#: QLineEdit#3 QTextEdit#3
+msgid "Cu&t"
+msgstr "잘라내기(&T)"
+
+#: QLineEdit#4 QTextEdit#4
+msgid "&Copy"
+msgstr "복사(&C)"
+
+#: QLineEdit#5 QTextEdit#5
+msgid "&Paste"
+msgstr "붙여넣기(&P)"
+
+#: QLineEdit#6 QTextEdit#6
+msgid "Clear"
+msgstr "클리어"
+
+#: QLineEdit#7 QTextEdit#7
+msgid "Select All"
+msgstr "모두 선택"
+
+#: QLineEdit#8 QTextEdit#8
+msgid "Select Input &Method"
+msgstr "입력 방법 선택(&M)"
+
+#: QLineEdit#9 QTextEdit#9
+msgid "Simple composing input method"
+msgstr "간단한 입력 방식"
+
+#: QMainWindow#1
+msgid "Line up"
+msgstr "정렬"
+
+#: QMainWindow#2
+msgid "Customize..."
+msgstr "최적화..."
+
+#: QMessageBox#1 QColorDialog#11 QFileDialog#11
+msgid "OK"
+msgstr "확인"
+
+#: QFileDialog#14
+msgid "&OK"
+msgstr "확인(&O)"
+
+#: QMessageBox#2 QColorDialog#12 QFileDialog#4
+msgid "Cancel"
+msgstr "취소"
+
+#: QMessageBox#3 QFileDialog#50
+msgid "&Yes"
+msgstr "예(&Y)"
+
+#: QMessageBox#4 QFileDialog#51
+msgid "&No"
+msgstr "아니오(&N)"
+
+#: QMessageBox#5
+msgid "&Abort"
+msgstr "중단(&A)"
+
+#: QMessageBox#6
+msgid "&Retry"
+msgstr "재시도(&R)"
+
+#: QMessageBox#7
+msgid "&Ignore"
+msgstr "무시(&I)"
+
+#: QMessageBox#8
+msgid ""
+"<h3>About Qt</h3><p>This program uses Qt version %1.</p><p>Qt is a C++ "
+"toolkit for multiplatform GUI &amp; application development.</p><p>Qt "
+"provides single-source portability across MS&nbsp;Windows, Mac&nbsp;OS&nbsp;"
+"X, Linux, and all major commercial Unix variants.<br>Qt is also available "
+"for embedded devices.</p><p>Qt is a Trolltech product. See <tt>http://www."
+"trolltech.com/qt/</tt> for more information.</p>"
+msgstr ""
+"<h3>Qt에 대해서</h3><p>이 프로그램은 Qt 버전 %1을 사용합니다.</p><p>Qt는 프로"
+"그램의 다중 플렛폼 지원  GUI &amp를 지원하는 C++ 도구 입니다.</p><p>Qt는 "
+"MS&nbsp;윈도우즈, 맥&bnbsp;OS&nbspX, 리눅스와 주요 상용 유닉스 버전 환경에서 "
+"동일한 소스를 사용할 수 있도록 합니다.<br>Qt는 임베디스 장치에서도 사용할 수 "
+"있습니다.</p><p>보다 자세한 내용은 Trolltech product를 참고하십시오. "
+"<tt>http://www.trolltech.com/qt/</tt></p>"
+
+#: QWhatsThisButton#1
+msgid "What's this?"
+msgstr "????"
+
+#: QColorDialog#1
+msgid "Hu&e:"
+msgstr "색상(&E) :"
+
+#: QColorDialog#2
+msgid "&Sat:"
+msgstr "채도(&S) :"
+
+#: QColorDialog#3
+msgid "&Val:"
+msgstr "명도(&V) :"
+
+#: QColorDialog#4
+msgid "&Red:"
+msgstr "빨간색(&R) :"
+
+#: QColorDialog#5
+msgid "&Green:"
+msgstr "녹색(&G) :"
+
+#: QColorDialog#6
+msgid "Bl&ue:"
+msgstr "파란색(&U) :"
+
+#: QColorDialog#7
+msgid "A&lpha channel:"
+msgstr "알파 채널(&L) :"
+
+#: QColorDialog#8
+msgid "&Basic colors"
+msgstr "기본색(&B)"
+
+#: QColorDialog#9
+msgid "&Custom colors"
+msgstr "사용자 지정 색(&C)"
+
+#: QColorDialog#10
+msgid "&Define Custom Colors >>"
+msgstr "사용자 지정 색 만들기(&D) >>"
+
+#: QColorDialog#13
+msgid "&Add to Custom Colors"
+msgstr "사용자 지정 색 추가(&A)"
+
+#: QColorDialog#14
+msgid "Select color"
+msgstr "색 선택"
+
+#: QFileDialog#1
+msgid "Copy or Move a File"
+msgstr "파일 복사/이동"
+
+#: QFileDialog#2
+msgid "Read: %1"
+msgstr "읽기 : %1"
+
+#: QFileDialog#3
+msgid "Write: %1"
+msgstr "쓰기 : %1"
+
+#: QFileDialog#5
+msgid "All Files (*)"
+msgstr "모든 파일 (*)"
+
+#: QFileDialog#6
+msgid "Name"
+msgstr "이름"
+
+#: QFileDialog#7
+msgid "Size"
+msgstr "크기"
+
+#: QFileDialog#8
+msgid "Type"
+msgstr "종류"
+
+#: QFileDialog#9
+msgid "Date"
+msgstr "일짜"
+
+#: QFileDialog#10
+msgid "Attributes"
+msgstr "속성"
+
+#: QFileDialog#12
+msgid "Look &in:"
+msgstr "검색 위치(&I) :"
+
+#: QFileDialog#13
+msgid "File &name:"
+msgstr "파일 이름(&N) :"
+
+#: QFileDialog#14
+msgid "File &type:"
+msgstr "파일 종류(&T) :"
+
+#: QFileDialog#15
+msgid "Back"
+msgstr "뒤로"
+
+#: QFileDialog#16
+msgid "One directory up"
+msgstr "상위 디렉터리"
+
+#: QFileDialog#17
+msgid "Create New Folder"
+msgstr "새 디렉터리 생성"
+
+#: QFileDialog#18
+msgid "List View"
+msgstr "목록 보기"
+
+#: QFileDialog#19
+msgid "Detail View"
+msgstr "자세히 보기"
+
+#: QFileDialog#20
+msgid "Preview File Info"
+msgstr "파일 정보 미리보기"
+
+#: QFileDialog#21
+msgid "Preview File Contents"
+msgstr "파일 내용 미리보기"
+
+#: QFileDialog#22
+msgid "Read-write"
+msgstr "읽기-쓰기"
+
+#: QFileDialog#23
+msgid "Read-only"
+msgstr "읽기 전용"
+
+#: QFileDialog#24
+msgid "Write-only"
+msgstr "쓰기 전용"
+
+#: QFileDialog#25
+msgid "Inaccessible"
+msgstr "접근 불가"
+
+#: QFileDialog#26
+msgid "Symlink to File"
+msgstr "파일 심볼릭 링크"
+
+#: QFileDialog#27
+msgid "Symlink to Directory"
+msgstr "디렉터리 심볼릭 링크"
+
+#: QFileDialog#28
+msgid "Symlink to Special"
+msgstr "특수 파일 심볼릭 링크"
+
+#: QFileDialog#29
+msgid "File"
+msgstr "파일"
+
+#: QFileDialog#30
+msgid "Dir"
+msgstr "디렉터리"
+
+#: QFileDialog#31
+msgid "Special"
+msgstr "특수 파일"
+
+#: QFileDialog#32
+msgid "Open"
+msgstr "열기"
+
+#: QFileDialog#33
+msgid "Save As"
+msgstr "다른 이름으로 저장"
+
+#: QFileDialog#34
+msgid "&Open"
+msgstr "열기(&O)"
+
+#: QFileDialog#35
+msgid "&Save"
+msgstr "저장(&S)"
+
+#: QFileDialog#36
+msgid "&Rename"
+msgstr "이름 변경"
+
+#: QFileDialog#37
+msgid "&Delete"
+msgstr "삭제(&D)"
+
+#: QFileDialog#38
+msgid "R&eload"
+msgstr "다시 불러오기(&E)"
+
+#: QFileDialog#39
+msgid "Sort by &Name"
+msgstr "이름순으로 정렬(&N)"
+
+#: QFileDialog#40
+msgid "Sort by &Size"
+msgstr "크기순으로 정렬(&S)"
+
+#: QFileDialog#41
+msgid "Sort by &Date"
+msgstr "날짜순으로 정렬(&D)"
+
+#: QFileDialog#42
+msgid "&Unsorted"
+msgstr "정렬 안함(&U)"
+
+#: QFileDialog#43
+msgid "Sort"
+msgstr "정렬"
+
+#: QFileDialog#44
+msgid "Show &hidden files"
+msgstr "숨김 파일 보기(&H)"
+
+#: QFileDialog#45
+msgid "the file"
+msgstr "해당 파일"
+
+#: QFileDialog#46
+msgid "the directory"
+msgstr "해당 디렉터리"
+
+#: QFileDialog#47
+msgid "the symlink"
+msgstr "해당 심볼릭 링크"
+
+#: QFileDialog#48
+msgid "Delete %1"
+msgstr "%1 삭제"
+
+#: QFileDialog#49
+msgid "<qt>Are you sure you wish to delete %1 \"%2\"?</qt>"
+msgstr "<qt>%1 \"%2\"을(를) 삭제하겠습니까?<qt>"
+
+#: QFileDialog#52
+msgid "New Folder 1"
+msgstr "새로운 디렉터리 1"
+
+#: QFileDialog#53
+msgid "New Folder"
+msgstr "새로운 디렉터리"
+
+#: QFileDialog#54
+msgid "New Folder %1"
+msgstr "새로운 디렉터리 %1"
+
+#: QFileDialog#55
+msgid "Find Directory"
+msgstr "디렉터리 찾기"
+
+#: QFileDialog#56
+msgid "Directories"
+msgstr "디렉터리"
+
+#: QFileDialog#57
+msgid "Save"
+msgstr "저장"
+
+#: QFileDialog#58
+msgid "Directory:"
+msgstr "디렉터리 :"
+
+#: QFileDialog#59
+msgid "Error"
+msgstr "오류"
+
+#: QFileDialog#60
+msgid "%1File not found.Check path and filename."
+msgstr "%1파일을 찾지 못했습니다.경로와 파일 이름을 확인하십시오."
+
+#: QWizard#1
+msgid "&Help"
+msgstr "도움말(&H)"
+
+#: QWizard#2
+msgid "< &Back"
+msgstr "< 이전(&B)"
+
+#: QWizard#3
+msgid "&Next >"
+msgstr "다음(&N) >"
+
+#: QWizard#4
+msgid "&Finish"
+msgstr "완료(&F)"
+
+#: QWizard#5
+msgid "&Cancel"
+msgstr "취소(&C)"
+
+#: CATCH_EXCEPTION#1
+msgid "user or password not given!"
+msgstr "사용자 이름 혹은 암호가 없습니다!"
+
+#: CATCH_EXCEPTION#2
+msgid "unknow error!"
+msgstr "알 수 없는 오류!"
+
+#: CATCH_EXCEPTION#3
+msgid "you may not super user(root), please relogin as super user, "
+msgstr "슈퍼 유저(root)가 아닙니다, 슈퍼 유저로 다시 로그인 하십시오, "

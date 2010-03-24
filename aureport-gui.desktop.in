@@ -1,0 +1,9 @@
+[Desktop Entry]
+Encoding=UTF-8
+_Name=Audit Report-gui
+_Comment=Audit Log Visualization
+Exec=aureport-gui
+Terminal=false
+Type=Application
+Icon=aureport-gui.png
+Categories=Qt;KDE;X-KDE-settings-SystemManagement;

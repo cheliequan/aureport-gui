@@ -1,0 +1,410 @@
+# SOME DESCRIPTIVE TITLE.
+# This file is put in the public domain.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: lime-common 0.9.2\n"
+"Report-Msgid-Bugs-To: dcwang@redflag-linux.com\n"
+"POT-Creation-Date: 2007-02-28 10:06+0800\n"
+"PO-Revision-Date: 2007-07-16 14:32+0800\n"
+"Last-Translator: Diancheng Wang <dcwang@redflag-linux.com>\n"
+"Language-Team: Chinese (traditional)(convert from simplified) "
+"<support@redflag-linux.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: QLineEdit#1 QTextEdit#1
+msgid "&Undo"
+msgstr "取消操作(&U)"
+
+#: QLineEdit#2 QTextEdit#2
+msgid "&Redo"
+msgstr "恢復操作(&R)"
+
+#: QLineEdit#3 QTextEdit#3
+msgid "Cu&t"
+msgstr "剪切(&T)"
+
+#: QLineEdit#4 QTextEdit#4
+msgid "&Copy"
+msgstr "復制(&C)"
+
+#: QLineEdit#5 QTextEdit#5
+msgid "&Paste"
+msgstr "粘貼(&P)"
+
+#: QLineEdit#6 QTextEdit#6
+msgid "Clear"
+msgstr "清除"
+
+#: QLineEdit#7 QTextEdit#7
+msgid "Select All"
+msgstr "全部選中"
+
+#: QLineEdit#8 QTextEdit#8
+msgid "Select Input &Method"
+msgstr "選擇輸入法(&M)"
+
+#: QLineEdit#9 QTextEdit#9
+msgid "Simple composing input method"
+msgstr "簡單組合輸入法"
+
+#: QMainWindow#1
+msgid "Line up"
+msgstr "對齊"
+
+#: QMainWindow#2
+msgid "Customize..."
+msgstr "定制..."
+
+#: QMessageBox#1 QColorDialog#11 QFileDialog#11
+msgid "OK"
+msgstr "確定"
+
+#: QFileDialog#14
+msgid "&OK"
+msgstr "確定(&O)"
+
+#: QMessageBox#2 QColorDialog#12 QFileDialog#4
+msgid "Cancel"
+msgstr "取消"
+
+#: QMessageBox#3 QFileDialog#50
+msgid "&Yes"
+msgstr "是(&Y)"
+
+#: QMessageBox#4 QFileDialog#51
+msgid "&No"
+msgstr "否(&N)"
+
+#: QMessageBox#5
+msgid "&Abort"
+msgstr "中斷(&A)"
+
+#: QMessageBox#6
+msgid "&Retry"
+msgstr "重試(&R)"
+
+#: QMessageBox#7
+msgid "&Ignore"
+msgstr "忽略(&I)"
+
+#: QMessageBox#8
+msgid ""
+"<h3>About Qt</h3><p>This program uses Qt version %1.</p><p>Qt is a C++ "
+"toolkit for multiplatform GUI &amp; application development.</p><p>Qt "
+"provides single-source portability across MS&nbsp;Windows, Mac&nbsp;OS&nbsp;"
+"X, Linux, and all major commercial Unix variants.<br>Qt is also available "
+"for embedded devices.</p><p>Qt is a Trolltech product. See <tt>http://www."
+"trolltech.com/qt/</tt> for more information.</p>"
+msgstr ""
+
+#: QWhatsThisButton#1
+msgid "What's this?"
+msgstr "這是什麼？"
+
+#: QColorDialog#1
+msgid "Hu&e:"
+msgstr "色調(&U)"
+
+#: QColorDialog#2
+msgid "&Sat:"
+msgstr "飽和度(&S)"
+
+#: QColorDialog#3
+msgid "&Val:"
+msgstr "亮度(&V)"
+
+#: QColorDialog#4
+msgid "&Red:"
+msgstr "紅(&R)"
+
+#: QColorDialog#5
+msgid "&Green:"
+msgstr "綠(&G)"
+
+#: QColorDialog#6
+msgid "Bl&ue:"
+msgstr "藍(&U)"
+
+#: QColorDialog#7
+msgid "A&lpha channel:"
+msgstr "A&lpha通道："
+
+#: QColorDialog#8
+msgid "&Basic colors"
+msgstr "基本顏色(&B)"
+
+#: QColorDialog#9
+msgid "&Custom colors"
+msgstr "自定義顏色(&C)"
+
+#: QColorDialog#10
+msgid "&Define Custom Colors >>"
+msgstr "規定自定義顏色(&D) >>"
+
+#: QColorDialog#13
+msgid "&Add to Custom Colors"
+msgstr "添加到自定義顏色(&A)"
+
+#: QColorDialog#14
+msgid "Select color"
+msgstr "選擇顏色"
+
+#: QFileDialog#1
+msgid "Copy or Move a File"
+msgstr "拷貝或移動文件"
+
+#: QFileDialog#2
+msgid "Read: %1"
+msgstr "讀：%1"
+
+#: QFileDialog#3
+msgid "Write: %1"
+msgstr "讀：%1"
+
+#: QFileDialog#5
+msgid "All Files (*)"
+msgstr "所有文件 (*)"
+
+#: QFileDialog#6
+msgid "Name"
+msgstr "名稱"
+
+#: QFileDialog#7
+msgid "Size"
+msgstr "大小"
+
+#: QFileDialog#8
+msgid "Type"
+msgstr "類型"
+
+#: QFileDialog#9
+msgid "Date"
+msgstr "修改時間"
+
+#: QFileDialog#10
+msgid "Attributes"
+msgstr "屬性"
+
+#: QFileDialog#12
+msgid "Look &in:"
+msgstr "查找範圍(&I)："
+
+#: QFileDialog#13
+msgid "File &name:"
+msgstr "文件名稱(&N)："
+
+#: QFileDialog#14
+msgid "File &type:"
+msgstr "文件類型(&T)："
+
+#: QFileDialog#15
+msgid "Back"
+msgstr "回退"
+
+#: QFileDialog#16
+msgid "One directory up"
+msgstr "上一級目錄"
+
+#: QFileDialog#17
+msgid "Create New Folder"
+msgstr "新建目錄"
+
+#: QFileDialog#18
+msgid "List View"
+msgstr "列表"
+
+#: QFileDialog#19
+msgid "Detail View"
+msgstr "詳細"
+
+#: QFileDialog#20
+msgid "Preview File Info"
+msgstr "預覽文件信息"
+
+#: QFileDialog#21
+msgid "Preview File Contents"
+msgstr "預覽文件內容"
+
+#: QFileDialog#22
+msgid "Read-write"
+msgstr "讀寫"
+
+#: QFileDialog#23
+msgid "Read-only"
+msgstr "只讀"
+
+#: QFileDialog#24
+msgid "Write-only"
+msgstr "只寫"
+
+#: QFileDialog#25
+msgid "Inaccessible"
+msgstr "無法訪問"
+
+#: QFileDialog#26
+msgid "Symlink to File"
+msgstr "指向文件的符號鏈接"
+
+#: QFileDialog#27
+msgid "Symlink to Directory"
+msgstr "指向目錄的符號鏈接"
+
+#: QFileDialog#28
+msgid "Symlink to Special"
+msgstr "指向特殊文件的符號鏈接"
+
+#: QFileDialog#29
+msgid "File"
+msgstr "文件"
+
+#: QFileDialog#30
+msgid "Dir"
+msgstr "目錄"
+
+#: QFileDialog#31
+msgid "Special"
+msgstr "特殊文件"
+
+#: QFileDialog#32
+msgid "Open"
+msgstr "打開"
+
+#: QFileDialog#33
+msgid "Save As"
+msgstr "保存為"
+
+#: QFileDialog#34
+msgid "&Open"
+msgstr "打開(&O)"
+
+#: QFileDialog#35
+msgid "&Save"
+msgstr "存儲(&S)"
+
+#: QFileDialog#36
+msgid "&Rename"
+msgstr "重命名(&R)"
+
+#: QFileDialog#37
+msgid "&Delete"
+msgstr "刪除(&D)"
+
+#: QFileDialog#38
+msgid "R&eload"
+msgstr "刷新(&E)"
+
+#: QFileDialog#39
+msgid "Sort by &Name"
+msgstr "按名稱排序(&N)"
+
+#: QFileDialog#40
+msgid "Sort by &Size"
+msgstr "按大小排序(&S)"
+
+#: QFileDialog#41
+msgid "Sort by &Date"
+msgstr "按修改日期排序(&D)"
+
+#: QFileDialog#42
+msgid "&Unsorted"
+msgstr "不排序(&U)"
+
+#: QFileDialog#43
+msgid "Sort"
+msgstr "排序"
+
+#: QFileDialog#44
+msgid "Show &hidden files"
+msgstr "顯示隱藏文件(&H)"
+
+#: QFileDialog#45
+msgid "the file"
+msgstr "文件"
+
+#: QFileDialog#46
+msgid "the directory"
+msgstr "目錄"
+
+#: QFileDialog#47
+msgid "the symlink"
+msgstr "符號鏈接"
+
+#: QFileDialog#48
+msgid "Delete %1"
+msgstr "刪除 %1"
+
+#: QFileDialog#49
+msgid "<qt>Are you sure you wish to delete %1 \"%2\"?</qt>"
+msgstr "<qt>確定要刪除 %1 \"%2\"?</qt>"
+
+#: QFileDialog#52
+msgid "New Folder 1"
+msgstr "新目錄 1"
+
+#: QFileDialog#53
+msgid "New Folder"
+msgstr "新目錄"
+
+#: QFileDialog#54
+msgid "New Folder %1"
+msgstr "新目錄 %1"
+
+#: QFileDialog#55
+msgid "Find Directory"
+msgstr "查找目錄"
+
+#: QFileDialog#56
+msgid "Directories"
+msgstr "目錄"
+
+#: QFileDialog#57
+msgid "Save"
+msgstr "保存"
+
+#: QFileDialog#58
+msgid "Directory:"
+msgstr "目錄："
+
+#: QFileDialog#59
+msgid "Error"
+msgstr "錯誤"
+
+#: QFileDialog#60
+msgid "%1File not found.Check path and filename."
+msgstr "%1文件未找到請檢查路徑和文件名是否正確。"
+
+#: QWizard#1
+msgid "&Help"
+msgstr "幫助(&H)"
+
+#: QWizard#2
+msgid "< &Back"
+msgstr "< 回退(&B)"
+
+#: QWizard#3
+msgid "&Next >"
+msgstr "前進(&N) >"
+
+#: QWizard#4
+msgid "&Finish"
+msgstr "完成(&F)"
+
+#: QWizard#5
+msgid "&Cancel"
+msgstr "取消(&C)"
+
+#: CATCH_EXCEPTION#1
+msgid "user or password not given!"
+msgstr "沒有指定用戶名或密碼！"
+
+#: CATCH_EXCEPTION#2
+msgid "unknow error!"
+msgstr "未知錯誤！"
+
+#: CATCH_EXCEPTION#3
+msgid "you may not super user(root), please relogin as super user, "
+msgstr "你可能不是超級用戶（root），請以超級用戶身份重新登錄，"

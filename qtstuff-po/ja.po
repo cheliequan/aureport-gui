@@ -1,0 +1,418 @@
+# ja translation for lime-common qtstuff.
+# Copyright (C) 2007 Free Software Foundation, Inc.
+# This file is distributed under the same license as the lime-common package.
+# Diancheng Wang <dcwang@redflag-linux.com>, 2007.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: lime-common 0.9.0\n"
+"Report-Msgid-Bugs-To: dcwang@redflag-linux.com\n"
+"POT-Creation-Date: 2007-02-28 10:06+0800\n"
+"PO-Revision-Date: 2007-06-11 18:26+0900\n"
+"Last-Translator: Mitsugu Kitano <mkitano@miraclelinux.com>\n"
+"Language-Team: Asianux <packager@asianux.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: QLineEdit#1 QTextEdit#1
+msgid "&Undo"
+msgstr "アンドゥ(&U)"
+
+#: QLineEdit#2 QTextEdit#2
+msgid "&Redo"
+msgstr "リドゥ(&R)"
+
+#: QLineEdit#3 QTextEdit#3
+msgid "Cu&t"
+msgstr "切り取り(&T)"
+
+#: QLineEdit#4 QTextEdit#4
+msgid "&Copy"
+msgstr "コピー(&C)"
+
+#: QLineEdit#5 QTextEdit#5
+msgid "&Paste"
+msgstr "貼り付け(&P)"
+
+#: QLineEdit#6 QTextEdit#6
+msgid "Clear"
+msgstr "クリア"
+
+#: QLineEdit#7 QTextEdit#7
+msgid "Select All"
+msgstr "すべて選択"
+
+#: QLineEdit#8 QTextEdit#8
+msgid "Select Input &Method"
+msgstr "IMの選択(&M)"
+
+#: QLineEdit#9 QTextEdit#9
+msgid "Simple composing input method"
+msgstr "シンプル編集入力システム"
+
+#: QMainWindow#1
+msgid "Line up"
+msgstr "整列"
+
+#: QMainWindow#2
+msgid "Customize..."
+msgstr "カスタマイズ..."
+
+#: QMessageBox#1 QColorDialog#11 QFileDialog#11
+msgid "OK"
+msgstr "OK"
+
+#: QFileDialog#14
+msgid "&OK"
+msgstr "OK(&O)"
+
+#: QMessageBox#2 QColorDialog#12 QFileDialog#4
+msgid "Cancel"
+msgstr "キャンセル"
+
+#: QMessageBox#3 QFileDialog#50
+msgid "&Yes"
+msgstr "はい(&Y)"
+
+#: QMessageBox#4 QFileDialog#51
+msgid "&No"
+msgstr "いいえ(&N)"
+
+#: QMessageBox#5
+msgid "&Abort"
+msgstr "中断(&A)"
+
+#: QMessageBox#6
+msgid "&Retry"
+msgstr "リトライ(&R)"
+
+#: QMessageBox#7
+msgid "&Ignore"
+msgstr "無視(&I)"
+
+#: QMessageBox#8
+msgid ""
+"<h3>About Qt</h3><p>This program uses Qt version %1.</p><p>Qt is a C++ "
+"toolkit for multiplatform GUI &amp; application development.</p><p>Qt "
+"provides single-source portability across MS&nbsp;Windows, Mac&nbsp;OS&nbsp;"
+"X, Linux, and all major commercial Unix variants.<br>Qt is also available "
+"for embedded devices.</p><p>Qt is a Trolltech product. See <tt>http://www."
+"trolltech.com/qt/</tt> for more information.</p>"
+msgstr ""
+"<h3>Qtについて</h3><p>このプログラムはQtバージョン%1を使用しています。</"
+"p><p>QtはマルチプラットフォームGUIアプリケーションの &amp; ためのC++ツール"
+"キットです。</p><p>Qtは1つのソースコードで、MS&nbsp;Windows、Mac&nbsp;"
+"OS&nbsp;X、Linux、そしてすべての著明な商用UNIXに対してポータビリティーを提供"
+"します。<br>Qtは組込み機器でも利用することができます。</p><p>QtはTrolltech社"
+"の製品です。詳細は <tt>http://www.trolltech.com/qt/</tt> を参照してください。"
+"</p>"
+
+#: QWhatsThisButton#1
+msgid "What's this?"
+msgstr "これは何？"
+
+#: QColorDialog#1
+msgid "Hu&e:"
+msgstr "色相(&E):"
+
+#: QColorDialog#2
+msgid "&Sat:"
+msgstr "彩度(&S):"
+
+#: QColorDialog#3
+msgid "&Val:"
+msgstr "明度(&V):"
+
+#: QColorDialog#4
+msgid "&Red:"
+msgstr "赤(&R):"
+
+#: QColorDialog#5
+msgid "&Green:"
+msgstr "緑(&G):"
+
+#: QColorDialog#6
+msgid "Bl&ue:"
+msgstr "青(&U):"
+
+#: QColorDialog#7
+msgid "A&lpha channel:"
+msgstr "アルファチャンネル(&L):"
+
+#: QColorDialog#8
+msgid "&Basic colors"
+msgstr "基本色(&B)"
+
+#: QColorDialog#9
+msgid "&Custom colors"
+msgstr "カスタム色(&C)"
+
+#: QColorDialog#10
+msgid "&Define Custom Colors >>"
+msgstr "カスタム色の作成(&D)"
+
+#: QColorDialog#13
+msgid "&Add to Custom Colors"
+msgstr "カスタム色の追加(&A)"
+
+#: QColorDialog#14
+msgid "Select color"
+msgstr "色の選択"
+
+#: QFileDialog#1
+msgid "Copy or Move a File"
+msgstr "ファイルへのコピーもしくは移動"
+
+#: QFileDialog#2
+msgid "Read: %1"
+msgstr "読み込み: %1"
+
+#: QFileDialog#3
+msgid "Write: %1"
+msgstr "書き込み: %1"
+
+#: QFileDialog#5
+msgid "All Files (*)"
+msgstr "すべてのファイル(*)"
+
+#: QFileDialog#6
+msgid "Name"
+msgstr "名前"
+
+#: QFileDialog#7
+msgid "Size"
+msgstr "サイズ"
+
+#: QFileDialog#8
+msgid "Type"
+msgstr "タイプ"
+
+#: QFileDialog#9
+msgid "Date"
+msgstr "日付"
+
+#: QFileDialog#10
+msgid "Attributes"
+msgstr "属性"
+
+#: QFileDialog#12
+msgid "Look &in:"
+msgstr "場所(&I):"
+
+#: QFileDialog#13
+msgid "File &name:"
+msgstr "ファイル名(&N):"
+
+#: QFileDialog#14
+msgid "File &type:"
+msgstr "ファイルタイプ(&T):"
+
+#: QFileDialog#15
+msgid "Back"
+msgstr "戻る"
+
+#: QFileDialog#16
+msgid "One directory up"
+msgstr "ディレクトリを1階層上がる"
+
+#: QFileDialog#17
+msgid "Create New Folder"
+msgstr "新規フォルダの作成"
+
+#: QFileDialog#18
+msgid "List View"
+msgstr "一覧表示"
+
+#: QFileDialog#19
+msgid "Detail View"
+msgstr "詳細表示"
+
+#: QFileDialog#20
+msgid "Preview File Info"
+msgstr "ファイル情報のプレビュー"
+
+#: QFileDialog#21
+msgid "Preview File Contents"
+msgstr "ファイル内容のプレビュー"
+
+#: QFileDialog#22
+msgid "Read-write"
+msgstr "読み-書き"
+
+#: QFileDialog#23
+msgid "Read-only"
+msgstr "読み込み専用"
+
+#: QFileDialog#24
+msgid "Write-only"
+msgstr "書き込み専用"
+
+#: QFileDialog#25
+msgid "Inaccessible"
+msgstr "アクセス不可"
+
+#: QFileDialog#26
+msgid "Symlink to File"
+msgstr "ファイルへのシンボリックリンク"
+
+#: QFileDialog#27
+msgid "Symlink to Directory"
+msgstr "ディレクトリへのシンボリックリンク"
+
+#: QFileDialog#28
+msgid "Symlink to Special"
+msgstr "スペシャルファイルへのシンボリックリンク"
+
+#: QFileDialog#29
+msgid "File"
+msgstr "ファイル"
+
+#: QFileDialog#30
+msgid "Dir"
+msgstr "ディレクトリ"
+
+#: QFileDialog#31
+msgid "Special"
+msgstr "スペシャルファイル"
+
+#: QFileDialog#32
+msgid "Open"
+msgstr "開く"
+
+#: QFileDialog#33
+msgid "Save As"
+msgstr "別名で保存"
+
+#: QFileDialog#34
+msgid "&Open"
+msgstr "開く(&O)"
+
+#: QFileDialog#35
+msgid "&Save"
+msgstr "保存(&S)"
+
+#: QFileDialog#36
+msgid "&Rename"
+msgstr "名前の変更(&R)"
+
+#: QFileDialog#37
+msgid "&Delete"
+msgstr "削除(&D)"
+
+#: QFileDialog#38
+msgid "R&eload"
+msgstr "再読み込み(&E)"
+
+#: QFileDialog#39
+msgid "Sort by &Name"
+msgstr "名前順(&N)"
+
+#: QFileDialog#40
+msgid "Sort by &Size"
+msgstr "ファイルサイズ順(&S)"
+
+#: QFileDialog#41
+msgid "Sort by &Date"
+msgstr "日付順(&D)"
+
+#: QFileDialog#42
+msgid "&Unsorted"
+msgstr "並び替えなし(&U)"
+
+#: QFileDialog#43
+msgid "Sort"
+msgstr "並び替え"
+
+#: QFileDialog#44
+msgid "Show &hidden files"
+msgstr "隠しファイルの表示(&H)"
+
+#: QFileDialog#45
+msgid "the file"
+msgstr "ファイル"
+
+#: QFileDialog#46
+msgid "the directory"
+msgstr "ディレクトリ"
+
+#: QFileDialog#47
+msgid "the symlink"
+msgstr "シンボリックリンク"
+
+#: QFileDialog#48
+msgid "Delete %1"
+msgstr "%1 の削除"
+
+#: QFileDialog#49
+msgid "<qt>Are you sure you wish to delete %1 \"%2\"?</qt>"
+msgstr "<qt>本当に削除してもいいですか？ %1 \"%2\"?</qt>"
+
+#: QFileDialog#52
+msgid "New Folder 1"
+msgstr "新規フォルダ 1"
+
+#: QFileDialog#53
+msgid "New Folder"
+msgstr "新規フォルダ"
+
+#: QFileDialog#54
+msgid "New Folder %1"
+msgstr "新規フォルダ %1"
+
+#: QFileDialog#55
+msgid "Find Directory"
+msgstr "ディレクトリの検索"
+
+#: QFileDialog#56
+msgid "Directories"
+msgstr "ディレクトリ"
+
+#: QFileDialog#57
+msgid "Save"
+msgstr "保存"
+
+#: QFileDialog#58
+msgid "Directory:"
+msgstr "ディレクトリ:"
+
+#: QFileDialog#59
+msgid "Error"
+msgstr "エラー"
+
+#: QFileDialog#60
+msgid "%1File not found.Check path and filename."
+msgstr "%1ファイルが見付かりませんパスとファイル名を確認してください。"
+
+#: QWizard#1
+msgid "&Help"
+msgstr "ヘルプ(&H)"
+
+#: QWizard#2
+msgid "< &Back"
+msgstr "<戻る(&B)"
+
+#: QWizard#3
+msgid "&Next >"
+msgstr "次へ(&N) >"
+
+#: QWizard#4
+msgid "&Finish"
+msgstr "終了(&F)"
+
+#: QWizard#5
+msgid "&Cancel"
+msgstr "キャンセル(&C)"
+
+#: CATCH_EXCEPTION#1
+msgid "user or password not given!"
+msgstr "ユーザ名もしくはパスワードが入力されていません。"
+
+#: CATCH_EXCEPTION#2
+msgid "unknow error!"
+msgstr "不明なエラー"
+
+#: CATCH_EXCEPTION#3
+msgid "you may not super user(root), please relogin as super user, "
+msgstr ""
+"現在は特権ユーザ(root)ではありません。特権ユーザでログインし直してください。"

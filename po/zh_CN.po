@@ -1,0 +1,202 @@
+# translation of zh_CN.po to
+# Copyright (C) YEAR ORGANIZATION
+#
+# cheliequan <cheliequan@redflag-linux.com>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: zh_CN\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-03-22 13:42+0800\n"
+"PO-Revision-Date: 2009-03-06 10:50+0800\n"
+"Last-Translator: cheliequan <cheliequan@redflag-linux.com>\n"
+"Language-Team:  <zh@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"X-Generator: KBabel 1.11.4\n"
+
+#: ../aureport-gui.desktop.in.h:1
+msgid "Audit Log Visualization"
+msgstr "审计日志可视化"
+
+#: ../aureport-gui.desktop.in.h:2
+msgid "Audit Report-gui"
+msgstr "安全报表可视化工具"
+
+#: ../src/secreport.py:25
+msgid "configuration"
+msgstr "配置"
+
+#: ../src/secreport.py:26
+msgid "accounts_groups_or_roles"
+msgstr "帐户、组或角色"
+
+#: ../src/secreport.py:27 ../src/secreport.py:150 ../src/secreport.py:420
+msgid "logins"
+msgstr "登录"
+
+#: ../src/secreport.py:28
+msgid "failed_logins"
+msgstr "失败登录"
+
+#: ../src/secreport.py:29
+msgid "authentications"
+msgstr "认证"
+
+#: ../src/secreport.py:30
+msgid "failed_authentications"
+msgstr "失败认证"
+
+#: ../src/secreport.py:31 ../src/secreport.py:152 ../src/secreport.py:424
+msgid "users"
+msgstr "用户"
+
+#: ../src/secreport.py:32 ../src/secreport.py:153 ../src/secreport.py:426
+msgid "terminals"
+msgstr "终端"
+
+#: ../src/secreport.py:33
+msgid "host_names"
+msgstr "主机名"
+
+#: ../src/secreport.py:34 ../src/secreport.py:156 ../src/secreport.py:432
+msgid "executables"
+msgstr "执行"
+
+#: ../src/secreport.py:35
+msgid "files"
+msgstr "文件"
+
+#: ../src/secreport.py:36
+msgid "AVC's"
+msgstr "访问向量缓存"
+
+#: ../src/secreport.py:37
+msgid "MAC_events"
+msgstr "强制访问控制事件"
+
+#: ../src/secreport.py:38
+msgid "failed_syscalls"
+msgstr "失败系统调用"
+
+#: ../src/secreport.py:39
+msgid "anomaly_events"
+msgstr "异常事件"
+
+#: ../src/secreport.py:40
+msgid "responses_to_anomaly_events"
+msgstr "异常事件响应"
+
+#: ../src/secreport.py:41
+msgid "crypto_events"
+msgstr "私有事件"
+
+#: ../src/secreport.py:42
+msgid "keys"
+msgstr "键"
+
+#: ../src/secreport.py:43
+msgid "process_IDs"
+msgstr "进程标识"
+
+#: ../src/secreport.py:44 ../src/secreport.py:151 ../src/secreport.py:422
+msgid "events"
+msgstr "事件"
+
+#: ../src/secreport.py:47
+msgid "Summary"
+msgstr "概要"
+
+#: ../src/secreport.py:47
+msgid "Logins"
+msgstr "登录"
+
+#: ../src/secreport.py:47
+msgid "Events"
+msgstr "事件"
+
+#: ../src/secreport.py:47
+msgid "Users"
+msgstr "用户"
+
+#: ../src/secreport.py:47
+msgid "Terminals"
+msgstr "终端"
+
+#: ../src/secreport.py:47
+msgid "Syscalls"
+msgstr "系统调用"
+
+#: ../src/secreport.py:47
+msgid "Hosts"
+msgstr "主机"
+
+#: ../src/secreport.py:47
+msgid "Executables"
+msgstr "执行"
+
+#: ../src/secreport.py:47
+msgid "ResponsesToAnomalyEvents"
+msgstr "异常事件响应"
+
+#: ../src/secreport.py:146
+msgid "Security Report"
+msgstr "安全报表"
+
+#: ../src/secreport.py:147
+msgid "<b>Security Report Type :</b>"
+msgstr "<b>安全报表类型:</b>"
+
+#: ../src/secreport.py:149 ../src/secreport.py:418
+msgid "summary"
+msgstr "概要"
+
+#: ../src/secreport.py:154 ../src/secreport.py:428
+msgid "syscalls"
+msgstr "系统调用"
+
+#: ../src/secreport.py:155 ../src/secreport.py:430
+msgid "hosts"
+msgstr "主机"
+
+#: ../src/secreport.py:157 ../src/secreport.py:434
+msgid "responses to anomaly events"
+msgstr "异常事件响应"
+
+#: ../src/secreport.py:158
+msgid "<b>Query Status :</b>"
+msgstr "<b>查询状态：</b>"
+
+#: ../src/secreport.py:160
+msgid "All"
+msgstr "全部"
+
+#: ../src/secreport.py:161
+msgid "Success"
+msgstr "成功"
+
+#: ../src/secreport.py:162
+msgid "Failed"
+msgstr "失败"
+
+#: ../src/secreport.py:163
+msgid "query"
+msgstr "查询"
+
+#: ../src/secreport.py:164 ../src/data_visual.py:50
+msgid "Data Visualization"
+msgstr "数据可视化"
+
+#: ../src/secreport.py:577
+msgid "Retrieving..."
+msgstr "检索..."
+
+#: ../src/secreport.py:581
+msgid ""
+"Retrieving data from server...\n"
+"Please wait"
+msgstr ""
+"从服务器检索数据...\n"
+"请等待"
+
