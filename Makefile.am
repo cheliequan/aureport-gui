@@ -1,5 +1,5 @@
 ACLOCAL_AMFLAGS = -I m4
-CONFIG_CLEAN_FILES = *.rej *.orig
+CONFIG_CLEAN_FILES = *.rej *.orig *.pyc *.pyo
 
 SUBDIRS = po src qtstuff-po 
 qtstuffdir = $(pkgdatadir)/locale

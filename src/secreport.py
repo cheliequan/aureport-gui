@@ -121,7 +121,7 @@ class Secreport(QWidget):
 
         self.languageChange()
 
-        self.resize(QSize(352,264).expandedTo(self.minimumSizeHint()))
+        self.resize(QSize(352,464).expandedTo(self.minimumSizeHint()))
         self.clearWState(Qt.WState_Polished)
 
         self.connect(self.security_items,SIGNAL("activated(const QString&)"),self.security_item_select)
