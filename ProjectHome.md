@@ -1,0 +1,3 @@
+> <p>A new utility about audit log visualization named aureport-gui based on pychart and pyqt.as a substitute for "mkbar"，it contains pie chart,bar chart and report data in a graph.</p>
+> <p>it requires audit,PyQt,pychart packages. </p>
+> <p>you can know the mkbar script at <a href='http://people.redhat.com/sgrubb/audit/visualize/index.html'>http://people.redhat.com/sgrubb/audit/visualize/index.html</a>.</p>
